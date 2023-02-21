@@ -2,7 +2,7 @@ This use-case, extracts user details from HTML table and loads it into CRM websi
 Steps in RPA bot involves:
 - 1.Open Site and Extract csv.
 ![image]()
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/82325528/220447388-7b724df0-5fe0-44f9-9ce3-8bb280ed76b7.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/82325528/220447388-7b724df0-5fe0-44f9-9ce3-8bb280ed76b7.png data-canonical-src="https://user-images.githubusercontent.com/82325528/220447388-7b724df0-5fe0-44f9-9ce3-8bb280ed76b7.png" width="200" height="400" />
 - 2.Open CSV and Launch CRM
 ![image](https://user-images.githubusercontent.com/82325528/220447457-8a9660f9-3f8d-4df1-adad-6405ef9e72da.png)
 - 3.Loop Customers and Enter Data
