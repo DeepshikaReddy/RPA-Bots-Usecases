@@ -1,6 +1,6 @@
 This use-case, extracts user details from HTML table and loads it into CRM website . The csv file along with status is emailed to RM Manager.
 Steps in RPA bot involves:
-- 1.Open Site and Extract csv.
+
 ![Alt text](https://user-images.githubusercontent.com/82325528/220447388-7b724df0-5fe0-44f9-9ce3-8bb280ed76b7.png "Open Site and Extract csv.")
 - 2.Open CSV and Launch CRM
 ![image](https://user-images.githubusercontent.com/82325528/220447457-8a9660f9-3f8d-4df1-adad-6405ef9e72da.png)
