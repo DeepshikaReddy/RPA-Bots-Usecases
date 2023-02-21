@@ -5,8 +5,8 @@ Steps in RPA bot involves:
 - ![Alt text](https://user-images.githubusercontent.com/82325528/220447457-8a9660f9-3f8d-4df1-adad-6405ef9e72da.png "Open Csv and Launch CRM")
 - ![Alt text](https://user-images.githubusercontent.com/82325528/220447563-149c2a48-c0a9-4ada-91b8-0a38895a8984.png "Loop Customers and Enter Data")
 - ![Alt text](https://user-images.githubusercontent.com/82325528/220447630-e912ad07-e312-441d-87be-058430ce7008.png "Save CSV and email a copy to RM Manager.")
-
+<br />
 Results:
-![image](https://user-images.githubusercontent.com/82325528/220447718-bb3a5499-7436-4f95-b89a-62c0f85c34a5.png)
-![image](https://user-images.githubusercontent.com/82325528/220447769-835cb179-41a0-4275-aaa0-b5e2178f3756.png)
+- ![Alt text](https://user-images.githubusercontent.com/82325528/220447718-bb3a5499-7436-4f95-b89a-62c0f85c34a5.png "Email")
+- ![Alt text](https://user-images.githubusercontent.com/82325528/220447769-835cb179-41a0-4275-aaa0-b5e2178f3756.png "Attached CSV in Email")
 
