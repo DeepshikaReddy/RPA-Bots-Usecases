@@ -11,9 +11,9 @@ This use-case, extracts user details from HTML table and loads it into CRM websi
 **4.Save CSV and email a copy to RM Manager.**  
 
 **Results:**
-- ![Email](https://user-images.githubusercontent.com/82325528/220447718-bb3a5499-7436-4f95-b89a-62c0f85c34a5.png)
+- ![Email](![image](https://user-images.githubusercontent.com/82325528/220452393-d728320f-8e18-48e4-9414-4aab7fc7ce4d.png))
 **Email Content**  
-- ![Attached CSV in Email](https://user-images.githubusercontent.com/82325528/220447769-835cb179-41a0-4275-aaa0-b5e2178f3756.png)
+- ![Attached CSV in Email](![image](https://user-images.githubusercontent.com/82325528/220452474-fc5fdc04-b79c-4fbf-b796-17cb4461d473.png))
 **Attached CSV in Email**  
 
 
