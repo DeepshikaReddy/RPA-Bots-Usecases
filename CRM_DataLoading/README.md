@@ -13,9 +13,10 @@ This use-case, extracts user details from HTML table and loads it into CRM websi
 - ![Save CSV and email a copy to RM Manager.](https://user-images.githubusercontent.com/82325528/220447630-e912ad07-e312-441d-87be-058430ce7008.png)
 **4.Save CSV and email a copy to RM Manager.**  
 
-**Resilient Bots:**
+
 ![image](https://user-images.githubusercontent.com/82325528/220684781-4cb97aac-d683-419a-90a0-3c7ee1e36519.png)
 **Error handling using Try-catch-finally block**
+
 
 **Results:**
 - ![Email](https://user-images.githubusercontent.com/82325528/220452393-d728320f-8e18-48e4-9414-4aab7fc7ce4d.png)
