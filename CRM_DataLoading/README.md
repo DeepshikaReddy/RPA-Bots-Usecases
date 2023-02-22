@@ -1,5 +1,7 @@
 This use-case, extracts user details from HTML table and loads it into CRM website . The csv file along with status is emailed to RM Manager.
-**Steps in RPA bot involves:**
+
+---
+**1.Steps in RPA bot involves:**
 
 - ![Open Site and Extract csv.](https://user-images.githubusercontent.com/82325528/220447388-7b724df0-5fe0-44f9-9ce3-8bb280ed76b7.png)
 **1.Open Site and Extract csv.**  
@@ -21,11 +23,11 @@ This use-case, extracts user details from HTML table and loads it into CRM websi
 **Attached CSV in Email**  
 
 ---
-**Error handling using Try-catch-finally block**
+**2.Error handling using Try-catch-finally block**
 ![image](https://user-images.githubusercontent.com/82325528/220684781-4cb97aac-d683-419a-90a0-3c7ee1e36519.png)
 ---
 
-**Calling Children bots from Parent bot with delay of 7 seconds in each run.**
+**3.Calling Children bots from Parent bot with delay of 7 seconds in each run.**
 ![image](https://user-images.githubusercontent.com/82325528/220785199-7e3fd674-8ac1-414f-b025-d61471ff7226.png)
 ---
 
