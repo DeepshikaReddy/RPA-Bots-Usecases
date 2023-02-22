@@ -13,17 +13,21 @@ This use-case, extracts user details from HTML table and loads it into CRM websi
 - ![Save CSV and email a copy to RM Manager.](https://user-images.githubusercontent.com/82325528/220447630-e912ad07-e312-441d-87be-058430ce7008.png)
 **4.Save CSV and email a copy to RM Manager.**  
 
----
-![image](https://user-images.githubusercontent.com/82325528/220684781-4cb97aac-d683-419a-90a0-3c7ee1e36519.png)
-**5.Error handling using Try-catch-finally block**
-
----
 **Results:**
 - ![Email](https://user-images.githubusercontent.com/82325528/220452393-d728320f-8e18-48e4-9414-4aab7fc7ce4d.png)
 **Email Content**  
 
 - ![Attached CSV in Email](https://user-images.githubusercontent.com/82325528/220452474-fc5fdc04-b79c-4fbf-b796-17cb4461d473.png)
 **Attached CSV in Email**  
+
+---
+** Error handling using Try-catch-finally block **
+![image](https://user-images.githubusercontent.com/82325528/220684781-4cb97aac-d683-419a-90a0-3c7ee1e36519.png)
+---
+** Calling Children bots from Parent bot with delay of 7 seconds in each run.
+![image](https://user-images.githubusercontent.com/82325528/220785199-7e3fd674-8ac1-414f-b025-d61471ff7226.png)
+
+---
 
 
 
