@@ -21,7 +21,7 @@ This use-case, extracts user details from HTML table and loads it into CRM websi
 **Attached CSV in Email**  
 
 ---
-**Error handling using Try-catch-finally block **
+**Error handling using Try-catch-finally block**
 ![image](https://user-images.githubusercontent.com/82325528/220684781-4cb97aac-d683-419a-90a0-3c7ee1e36519.png)
 ---
 
